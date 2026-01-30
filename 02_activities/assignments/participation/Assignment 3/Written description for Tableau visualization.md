@@ -12,7 +12,7 @@ The intended audience includes members of the general public, students, journali
 
 > What information or message are you trying to convey with your visualization? 
 
-The visualization aims to convey how the Crime Severity Index (CSI) evolved between 2008 and 2012 across selected Canadian geographies, including provinces, territories, and sub-provincial regions. By plotting all selected jurisdictions on a single chart, the visualization highlights stark disparities in crime severity—particularly the consistently elevated CSI values in the northern territories—while also showing that most regions experienced a general decline over time.
+The visualization aims to convey how the Crime Severity Index (CSI) evolved between 2008 and 2012 across selected Canadian geographies, including provinces, territories, and sub-provincial regions. By plotting all selected jurisdictions on a single chart, the visualization highlights stark disparities in crime severity, particularly the consistently elevated CSI values in the northern territories, while also showing that most regions experienced a general decline over time.
 
 
 > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 

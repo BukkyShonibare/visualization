@@ -19,6 +19,9 @@ https://data.ontario.ca/dataset/crime-severity/resource/4e1ab2e6-3a93-4692-9769-
 
 # Data Visualization
 
+Phythom visualization is saved as "Visualization for assignment 3.ipynb
+The other visualization was done with Tableau Public. The Tableau file, visualization in png, screenshot, and the data are saved in the Assignment 3 folder under participation.
+
 
 
 
